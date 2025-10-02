@@ -1,0 +1,2 @@
+# VOIS_AICTE_Oct2025_MajorProject_Nihal_DR
+Netflix Data Analysis
