@@ -1,5 +1,10 @@
 # VOIS_AICTE_Oct2025_MajorProject_Nihal_DR
 # 📊 Netflix Content Trends Analysis
+## About the Author
+
+- **Name:** Nihal DR
+- **College:** CMR Institute of Technology
+- **Branch:** Artificial Intelligence & Data Science (AI&DS)
 
 ## 📌 Problem Statement
 Netflix has become one of the most prominent global streaming platforms, continuously expanding its library with original productions and licensed content. However, with growing competition from Amazon Prime, Disney+, and regional OTT providers, Netflix must strategically analyze its content catalog to identify strengths, gaps, and opportunities.  
@@ -86,6 +91,6 @@ Saved outputs include:
 ## 🚀 How to Run
 1. Clone this repository:  
    ```bash
-   git clone https://github.com//netflix-trends-analysis.git
+   git clone [https://github.com//netflix-trends-analysis.git](https://github.com/NihalDR/VOIS_AICTE_Oct2025_MajorProject_Nihal_DR.git)
    cd netflix-trends-analysis
 
